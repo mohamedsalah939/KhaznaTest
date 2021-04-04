@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 84.511 s <<< FAILURE! - in TestSuite
+RegisterWOCmpnyWMobWalletInvNo(Framwork.KhaznaTest.RegisterWOCompanyWMobileWalletInvalidNo)  Time elapsed: 83.189 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-0DT4K5P', ip: '192.168.1.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Automation\eclipse-works..., appPackage: com.project.imperialcreatio..., automationName: uiautomator2, databaseEnabled: false, desired: {app: C:\Automation\eclipse-works..., automationName: uiautomator2, deviceName: RF8M32EDBCZ, platformName: android}, deviceApiLevel: 30, deviceManufacturer: samsung, deviceModel: SM-G973F, deviceName: RF8M32EDBCZ, deviceScreenDensity: 560, deviceScreenSize: 1440x3040, deviceUDID: RF8M32EDBCZ, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3.5, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 150, takesScreenshot: true, viewportRect: {height: 2741, left: 0, top: 150, width: 1440}, warnings: {}, webStorageEnabled: false}
+Session ID: 69ecb078-9d81-453a-a2b4-6640296bd6d6
+*** Element info: {Using=id, value=com.project.imperialcreation.khaznaproject:id/bankInfoWalletRB}
+	at Framwork.KhaznaTest.RegisterWOCompanyWMobileWalletInvalidNo.RegisterWOCmpnyWMobWalletInvNo(RegisterWOCompanyWMobileWalletInvalidNo.java:26)
+

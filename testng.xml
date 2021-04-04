@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Framwork.KhaznaTest.RegisterWOCompanyWMobileWalletInvalidNo"/>
+      <class name="Framwork.KhaznaTest.EnterInvalidIDNumber"/>
+      <class name="Framwork.KhaznaTest.LoginValidNumber"/>
+      <class name="Framwork.KhaznaTest.RegisterWOCompanyWBank"/>
+      <class name="Framwork.KhaznaTest.LoginInvalidNumber"/>
+      <class name="Framwork.KhaznaTest.RegisterWithNewImage"/>
+      <class name="Framwork.KhaznaTest.RegisterWOCompanyWInvalidVisa"/>
+      <class name="Framwork.KhaznaTest.RegisterWOCompanyWVisa"/>
+      <class name="Framwork.KhaznaTest.RegisterWOCompanyWBankInvalidAcc"/>
+      <class name="Framwork.KhaznaTest.RegisterWOCompanyWMobileWallet"/>
+      <class name="Framwork.KhaznaTest.SearchForNonExistingCompany"/>
+      <class name="Framwork.KhaznaTest.RegisterWithExistingImage"/>
+      <class name="Framwork.KhaznaTest.EnterInvalidMobile"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

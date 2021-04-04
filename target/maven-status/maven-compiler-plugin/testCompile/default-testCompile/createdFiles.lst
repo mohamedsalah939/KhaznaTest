@@ -1,0 +1,13 @@
+Framwork\KhaznaTest\EnterInvalidIDNumber.class
+Framwork\KhaznaTest\RegisterWOCompanyWBankInvalidAcc.class
+Framwork\KhaznaTest\RegisterWithExistingImage.class
+Framwork\KhaznaTest\RegisterWOCompanyWBank.class
+Framwork\KhaznaTest\LoginValidNumber.class
+Framwork\KhaznaTest\RegisterWOCompanyWMobileWallet.class
+Framwork\KhaznaTest\SearchForNonExistingCompany.class
+Framwork\KhaznaTest\RegisterWithNewImage.class
+Framwork\KhaznaTest\RegisterWOCompanyWMobileWalletInvalidNo.class
+Framwork\KhaznaTest\RegisterWOCompanyWVisa.class
+Framwork\KhaznaTest\EnterInvalidMobile.class
+Framwork\KhaznaTest\LoginInvalidNumber.class
+Framwork\KhaznaTest\RegisterWOCompanyWInvalidVisa.class
